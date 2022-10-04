@@ -9,7 +9,7 @@ public class inserionSort {
                  arr[i+1] = arr[i];
                  i = i - 1;
              }
-             arr[i+1] = key;
+             arr[i+1] = key1;
          }
          return arr;
     }
